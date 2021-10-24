@@ -40,7 +40,7 @@ def pose_mediapipe():
            
 
     cap.release()
-    cv2.destroyAllWindows()
+    #cv2.destroyAllWindows()
 
 def calculate_angle(a,b,c):
     a = np.array(a) 
