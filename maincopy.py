@@ -214,7 +214,7 @@ if choice=="Posedetection":
     
 if choice=="Excercise":
     st.title("Excercise Demo")
-    st.subheader("Understanding Cordinates")
+    #st.subheader("Understanding Cordinates")
     st.write("The k-NN algorithm used for pose classification requires a feature vector representation of each sample and a metric to compute the distance between two such vectors to find the nearest pose samples to a target one.To convert pose landmarks to a feature vector, we use pairwise distances between predefined lists of pose joints, such as distances between wrist and shoulder, ankle and hip, and two wrists. Since the algorithm relies on distances, all poses are normalized to have the same torso size and vertical torso orientation before the conversion.")
     st.video("data/pose_world_landmarks.mp4")
     #z=cv2.imread("data\\pose_classification_pairwise_distances.png")
