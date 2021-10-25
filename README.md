@@ -12,6 +12,10 @@ git clone https://github.com/HeyAnirudh/CVexcercise
 ```bash
   streamlit run maincopy.py
    ```
+### 3)To test the backend pose-estimation code :- 
+```bash
+   python trial.p
+   ```
 ## Web App using instructions :-
 ### Choose the option from the  
 <details>
