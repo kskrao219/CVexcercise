@@ -16,6 +16,10 @@ git clone https://github.com/HeyAnirudh/CVexcercise
 ```bash
    python trial.py
    ```
+## Contributors
+@kskrao219
+@HeyAnirudh
+
 ## Web App using instructions :-
 ### Choose the option from the  
 <details>
@@ -40,6 +44,5 @@ This option identies , counts and displays
 the reps of a particular exercise by the use.
 </pre>
 </details>
-## Contributors
+##Contributors
 @kskrao219
-@HeyAnirudh
