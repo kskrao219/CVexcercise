@@ -14,7 +14,7 @@ git clone https://github.com/HeyAnirudh/CVexcercise
    ```
 ### 3)To test the backend pose-estimation code :- 
 ```bash
-   python trial.p
+   python trial.py
    ```
 ## Web App using instructions :-
 ### Choose the option from the  
