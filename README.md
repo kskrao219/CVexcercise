@@ -40,3 +40,6 @@ This option identies , counts and displays
 the reps of a particular exercise by the use.
 </pre>
 </details>
+## Contributors
+@kskrao219
+@HeyAnirudh
