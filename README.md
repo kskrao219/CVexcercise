@@ -31,8 +31,4 @@ nodes using Blazepose Detector
 </details>
 <details>
 <summary>Exercise</summary>
-<pre>
-This option identies , counts and displays 
-the reps of a particular exercise by the use.
-</pre>
-</details>
+
